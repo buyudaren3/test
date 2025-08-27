@@ -1,4 +1,4 @@
-# delay microsoft updata time to any  time that you want!
+# Delay microsoft updatas to any  time that you want!
 
 1：win+r，输入regedit打开注册表
 
